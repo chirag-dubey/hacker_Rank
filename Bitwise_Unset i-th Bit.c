@@ -9,5 +9,5 @@ int main() {
 
     b=(a&~(1<<i));
     printf("%d",b);
-    return 0;
+    
 }
