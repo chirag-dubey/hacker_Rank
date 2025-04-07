@@ -11,5 +11,4 @@ int main() {
         printf("Even");
     }
 
-    return 0;
 }
