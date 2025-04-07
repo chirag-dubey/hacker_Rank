@@ -6,5 +6,5 @@ int main() {
     scanf("%d",&n);
     n=((n<<3)-n);
     printf("%d",n);
-    return 0;
+    
 }
