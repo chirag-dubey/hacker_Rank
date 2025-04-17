@@ -10,5 +10,5 @@ int main() {
     else{
         printf("Even");
     }
-
+return 0;
 }
